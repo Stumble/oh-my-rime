@@ -70,7 +70,7 @@ engine:
 speller:
   auto_select: true
   auto_clear: max_length
-  delimiter: "`"
+  delimiter: " '"
   max_code_length: 10 # 最大输入字符（为了兼容英文输入）
   
   
